@@ -1,0 +1,84 @@
+.type_sum span, .fas_head .fas_title, .fas_head .fas_title, .major_recome .ico_list, .marjor_r_login .user_way, .marjor_r_login .get_some, .end_wrap, .shop_change .change_text, .shop_change .ico_bg, .groom_head .title_wrap, .head_nav .head_nav_item, .h_search_mid .h_search_wrap, .top .enter, .enter .enter_item, .head .head_title{
+	display: inline;
+	zoom: 1;
+}
+.mjr_app_con .pic_wrap{
+	display: inline;
+}
+.groom .lwrap, .end .line, .gdshop_item, .foot_con .line, .ico_row, .enter_link .ico_bg{
+	overflow: hidden;
+}
+.dayshop_con{
+	height: 1030px;
+}
+.search_inp_wrap .search_inp{
+	line-height: 34px;
+}
+.r_news_list li, .gdshop_con .gdshop_item, .act_sub_item, .major_nav_item, .h_search_recom .recom_item{
+	vertical-align: top;
+}
+.offen_item .o_item_show{
+	position: relative;
+}
+.groom_item .l_offen{
+	width: 100%;
+	overflow: hidden;
+}
+.fas_it_con .pic_wrap{
+	height: 100%;
+}
+.help, .bt_gust, .bt_must{
+	width: 100%;
+	overflow: hidden;
+}
+.hline_info .hline_title{
+	width: 100%;
+}
+.seller_list .main_left{
+	width: 163px;
+}
+.other_live .live_item{
+	display: inline;
+}
+.r_news_list li{
+	overflow: hidden;
+	height: 25px;
+}
+/* IE滤镜 */
+.sml_mask .fas_text{
+	background-color: #f1f1f1;
+	filter: alpha(opacity=70);
+	color: #333;
+}
+.ad_sign{
+	background-color: #888;
+	filter: alpha(opacity=50);
+}
+.bt_sotre_con .bt_store_item:hover{
+	filter: alpha(opacity=60);
+}
+/* shopList row */
+.row_wrap{
+	background: url(../img/icons_1.png) no-repeat 0 -45px;
+}
+.row_wrap em{
+	display: none;
+}
+.row_wrap_up{
+	background: url(../img/icons_1.png) no-repeat -10px -45px;
+}
+.row_wrap_up em{
+	display: none;
+}
+.liver_con .live_on em{
+	display: none;
+}
+.live_item .live_on{
+	background: url(../img/icons.png) no-repeat -76px -329px;
+}
+.major_live .liver_con .live_on{
+	background: url(../img/icons.png) no-repeat 0 -329px;
+}
+.o_item_show .show_item:hover{
+	border-color: #efefef;
+}
