@@ -1,11 +1,11 @@
-.type_sum span, .fas_head .fas_title, .fas_head .fas_title, .major_recome .ico_list, .marjor_r_login .user_way, .marjor_r_login .get_some, .end_wrap, .shop_change .change_text, .shop_change .ico_bg, .groom_head .title_wrap, .head_nav .head_nav_item, .h_search_mid .h_search_wrap, .top .enter, .enter .enter_item, .head .head_title{
+.serv_list .serv_item, .st_yr_text, .bt_recom .h_search_wrap, .bt_pages_wrap .shop_pages,.type_sum span, .fas_head .fas_title, .fas_head .fas_title, .major_recome .ico_list, .marjor_r_login .user_way, .marjor_r_login .get_some, .end_wrap, .shop_change .change_text, .shop_change .ico_bg, .groom_head .title_wrap, .head_nav .head_nav_item, .h_search_mid .h_search_wrap, .top .enter, .enter .enter_item, .head .head_title{
 	display: inline;
 	zoom: 1;
 }
-.mjr_app_con .pic_wrap{
+.bt_recom .ad_item, .mjr_app_con .pic_wrap{
 	display: inline;
 }
-.groom .lwrap, .end .line, .gdshop_item, .foot_con .line, .ico_row, .enter_link .ico_bg{
+.m_head_nav, .rec_head, .groom .lwrap, .end .line, .gdshop_item, .foot_con .line, .ico_row, .enter_link .ico_bg{
 	overflow: hidden;
 }
 .dayshop_con{
@@ -14,7 +14,7 @@
 .search_inp_wrap .search_inp{
 	line-height: 34px;
 }
-.r_news_list li, .gdshop_con .gdshop_item, .act_sub_item, .major_nav_item, .h_search_recom .recom_item{
+.sel_type_list li, .ad_sec .ad_item, .r_news_list li, .gdshop_con .gdshop_item, .act_sub_item, .major_nav_item, .h_search_recom .recom_item{
 	vertical-align: top;
 }
 .offen_item .o_item_show{
@@ -81,4 +81,61 @@
 }
 .o_item_show .show_item:hover{
 	border-color: #efefef;
+}
+.row_left{
+	background: url(../img/icons_1.png) no-repeat -52px -45px;
+}
+.row_right{
+	background: url(../img/icons_1.png) no-repeat -60px -45px;
+}
+.row i{
+	display: none;
+}
+.dis_link_l{
+	background-position: -35px -45px;
+}
+.dis_link_r{
+	background-position: -43px -45px;
+}
+.inp_num .num_page .num_pre{
+	background: url(../img/icons_1.png) no-repeat -70px -45px;
+}
+.inp_num .num_page .num_next{
+	background: url(../img/icons_1.png) no-repeat -70px -51px;
+}
+.shop_pages .num_page i{
+	display: none;
+}
+.row_des{
+	background: url(../img/icons_1.png) no-repeat -84px -45px;
+}
+.row_des em{
+	display: none;
+}
+.ad_hot .ad_item{
+	height: 322px;
+}
+.ad_pic .ad_item{
+	height: 377px;
+}
+.row_bt_solid{
+	background: url(../img/icons_1.png) no-repeat -91px -45px;
+}
+.row_bt_solid em{
+	display: none;
+}
+.store_recom{
+	zoom: 1;
+}
+.h_row_l{
+	background: url(../img/icons_1.png) no-repeat -106px -47px;
+}
+.h_row em{
+	display: none;
+}
+.h_row_r{
+	background: url(../img/icons_1.png) no-repeat -120px -47px;
+}
+.rec_wrap .ad_last_item{
+	margin-right: 0;
 }
