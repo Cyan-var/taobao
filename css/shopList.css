@@ -284,6 +284,7 @@ body{
 .order_siding .inp_wrap input{
 	border: 0;
 	width: 28px;
+	height: 21px;
 	line-height: 21px;
 }
 .order_siding .inp_sym{
@@ -317,6 +318,12 @@ body{
 .row_right .cv{
 	border-left-color: #f5f5f5;
 	left: -2px;
+}
+.pages_trun .row_right .cv{
+	border-left-color: #fff;
+}
+.pages_trun .row_left .cv{
+	border-right-color: #fff;
 }
 .page_num .num_text{
 	margin: 0 14px;
@@ -657,8 +664,8 @@ body{
 .rec_link:hover, .rec_nav_wrap .rec_link_act{
 	color: #ff4400;
 	border-color: #ff4400;
-	font-size: 14px;
-	font-weight: bold;
+	/*font-size: 14px;
+	font-weight: bold;*/
 }
 .rec_wrap .ad_list{
 	padding: 10px 24px 74px;
